@@ -10,7 +10,7 @@
           alt="3betclub Logo"
           class="shrink mr-2"
           contain
-          :src="require('@/assets/3betclub.jpeg')"
+          :src="require('./assets/3betclub.jpeg')"
           transition="scale-transition"
           width="40"
         />
